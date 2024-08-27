@@ -1,6 +1,6 @@
 
 
-- Postman Collection: [Link to Postman Collection](https://api.postman.com/collections/28694554-e92756cc-3eb8-409d-bd6f-8bbe0ed8de9e?access_key=PMAT-01J6A7NB2T2VP2H38YMGM45N8S)
+- Postman Collection: [Link to Postman Collection](/TODO-Work.postman_collection.json)
 
 **Frontend**: The frontend of this project is built using Next.js, a popular React framework for building server-side rendered and static websites. Next.js provides a great developer experience with features like automatic code splitting, server-side rendering, and static site generation. It also has built-in support for CSS-in-JS libraries like styled-components or CSS modules.
 
